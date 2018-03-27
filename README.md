@@ -1,2 +1,2 @@
-# BinargTree
+# BinaryTree
 二叉树
